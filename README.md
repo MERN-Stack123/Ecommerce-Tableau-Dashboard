@@ -58,3 +58,6 @@ Dashboard में 4 मुख्य visualizations हैं:
 ---
 
 **Note:** Dataset used is publicly available on Kaggle. This dashboard is for learning and portfolio purposes.  
+
+
+<img width="1366" height="768" alt="Dashboard_Pictures" src="https://github.com/user-attachments/assets/efac0918-1019-4eab-8a5a-37fec55f5afc" />
